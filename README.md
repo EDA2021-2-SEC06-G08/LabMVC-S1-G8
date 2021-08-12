@@ -1,6 +1,7 @@
 Integrantes:
 201821615 Camilo Ortiz Sección 6
-          Fernando Gomez Sección 6
+
+Fernando Gomez Sección 6
 
 ----------------------------------------------------------------------------------------------
 #ISIS1225 - Estructura de un proyecto
