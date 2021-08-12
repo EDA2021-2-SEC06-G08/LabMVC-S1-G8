@@ -1,3 +1,8 @@
+Integrantes:
+201821615 Camilo Ortiz Sección 6
+          Fernando Gomez
+
+----------------------------------------------------------------------------------------------
 #ISIS1225 - Estructura de un proyecto
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
