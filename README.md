@@ -1,6 +1,6 @@
 Integrantes:
 
-201821615 Camilo Ortiz Sección 6
+201821615 Camilo Ortiz Sección 6 c.ortizc@uniandes.edu.co
 
 Fernando Gomez Sección 6
 
