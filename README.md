@@ -1,8 +1,8 @@
 Integrantes:
 
-Camilo Ortiz c.ortizc@uniandes.edu.co 201821615 
+Camilo Ortiz Cruz c.ortizc@uniandes.edu.co 201821615 
 
-Fernando Gomez k.gomezc@uniandes.edu.co 202015120 
+Kevin Fernando Gomez Camargo k.gomezc@uniandes.edu.co 202015120 
 
 ----------------------------------------------------------------------------------------------
 #ISIS1225 - Estructura de un proyecto
