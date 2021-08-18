@@ -1,8 +1,8 @@
 Integrantes:
 
-201821615 Camilo Ortiz Sección 6 c.ortizc@uniandes.edu.co
+Camilo Ortiz c.ortizc@uniandes.edu.co 201821615 
 
-Fernando Gomez Sección 6
+Fernando Gomez k.gomezc@uniandes.edu.co 202015120 
 
 ----------------------------------------------------------------------------------------------
 #ISIS1225 - Estructura de un proyecto
